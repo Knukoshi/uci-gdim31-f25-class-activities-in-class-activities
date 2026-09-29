@@ -1,7 +1,9 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+"Hello World!"
+1. The camera did not move when the cat moved, because the camera is no longer a child object and does not follow the cat's transform properties.
+2. [https://knukoshi.itch.io/test-activity]
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
