@@ -9,7 +9,8 @@
 2. The _bounce variable is an int because it is used to count the number of occurences of a bounce. This is an integer amount.
 3. There was a syntax error because no semicolon (;) could be identified in the line of code.
 ### W3
-## 4 Table No. 4
+Table No. 4
+
 - Activity One -
 1. The parameters the method would have would be an integer (int) to represent the player's level, and a boolean (bool) that would serve as the flag.
    The method's output would be a string containing the character's response to the player character.
