@@ -23,6 +23,10 @@ Table No. 4
 - Activity Three -
 Because the brightness is multiplied every time the condition is satisfied, the balls' brightens exponentially.
 ### W4
+Table 17
+1. We decided to put rigibodies on the soccerball and cat since they needed to be able to collide for the ball to actually be hit around, but the goal didn't need it since
+   hitting the goalpost wasn't necessary. We had the collision for the goal be a trigger so that the ball could go through.
+2. I forgot to freeze the X and Z rotation of the cat, so it wouldn rotate awkwardly after hitting the ball. I froze them in the inspector.
 ### W5
 ## Open-Source Assets
 ### W1
